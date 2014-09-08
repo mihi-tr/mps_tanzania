@@ -1,0 +1,1 @@
+This scraper scrapes the members of the tanzanian parliament from http://www.paliament.go.tz it includes numbers of contributions and questions asked. Written for a workshop in Tanzania in 10-2012 Updated weekly
